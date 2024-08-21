@@ -1,0 +1,2 @@
+# vitrine
+A simple site
