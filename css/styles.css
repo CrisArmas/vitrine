@@ -1,0 +1,62 @@
+/* Styles généraux pour tout le site */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+/* Styles pour les sections */
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* Spécificité pour les sections de projet */
+.project {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Styles pour le pied de page */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+/* Styles pour les liens au survol */
+nav a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+
+/* Ajoutez d'autres styles personnalisés ici */
