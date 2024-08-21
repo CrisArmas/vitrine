@@ -1,2 +1,2 @@
-# vitrine
+# Test
 A simple site
